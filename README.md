@@ -1,1 +1,1 @@
-# JSCor18
+# JSCore18
